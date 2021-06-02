@@ -1,0 +1,6 @@
+
+hello Vim
+さようなら
+Bye!
+
+
